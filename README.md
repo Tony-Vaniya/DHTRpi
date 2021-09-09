@@ -1,5 +1,5 @@
 # DHTRpi
-##DHT11 Sensor Using Raspberry Pi
+## DHT11 Sensor Using Raspberry Pi
 
 
 
@@ -38,11 +38,11 @@ cd DHTRpi
 sudo python3 app.py
 ```
 
-#Start On Boot ##Follow The Command In cmd
+# Start On Boot ##Follow The Command In cmd
 
 sudo nano /etc/profile
 
-####In Last Add Line
+## In Last Add Line
 
 ```
 sudo python3 /home/pi/FlaskPi/main.py
