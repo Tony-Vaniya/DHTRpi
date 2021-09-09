@@ -15,7 +15,7 @@ sudo apt-get upgrade
 ```
 3--
 ```
-sudo apt-get install python3
+sudo apt-get install python3 python3-dev python3-pip
 ```
 4--
 ```
@@ -27,13 +27,17 @@ sudo apt-get install git
 ```
 6--
 ```
+sudo pip3 install Adafruit_DHT
+```
+--
+```
 git clone https://github.com/Tony-Vaniya/DHTRpi.git
 ```
-7--
+8--
 ```
 cd DHTRpi
 ```
-8--
+9--
 ```
 sudo python3 app.py
 ```
