@@ -14,4 +14,4 @@ def home():
     return render_template('index.html',temp = temperature,humi = humidity)
 
 
-app.run(debug=False,host='192.168.53.166')
+app.run(debug=False,host='0.0.0.0')
