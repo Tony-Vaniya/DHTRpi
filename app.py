@@ -2,7 +2,7 @@ import Adafruit_DHT
 from flask import Flask, render_template
 
 DHT_SENSOR = Adafruit_DHT.DHT11
-DHT_PIN = 18
+DHT_PIN = 5
 
 
 app = Flask(__name__)
