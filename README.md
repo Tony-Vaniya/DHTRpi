@@ -11,7 +11,7 @@
 ```
 
 
-To Run Some basic commands are:
+## To Run Some basic commands are:
 
 1--
 ```
@@ -50,7 +50,8 @@ cd DHTRpi
 sudo python3 app.py
 ```
 
-# Start On Boot ##Follow The Command In cmd
+# Start On Boot 
+## Follow The Command In cmd
 
 sudo nano /etc/profile
 
