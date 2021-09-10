@@ -52,8 +52,9 @@ sudo python3 app.py
 
 # Start On Boot 
 ## Follow The Command In cmd
-
+```
 sudo nano /etc/profile
+```
 
 ## In Last Add Line
 
