@@ -1,6 +1,14 @@
 # DHTRpi
 ## DHT11 Sensor Using Raspberry Pi
 
+### Connection
+
+  Rpi  -- DHT11
+  
+  Vcc   -- Vcc
+  GND   -- Gnd
+  Gpio5 -- Signal
+
 
 
 To Run Some basic commands are:
